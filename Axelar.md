@@ -3,7 +3,7 @@
 Axelar is a [[Cosmos]] interoperability protocol that aims to solve the protocol bridging problem by being an arbitrary bridge. In general, bridges are a centralizing force because they lock up tokens on one side of the bridge, wrapping the token on the other side. Axelar allows you to wrap the tokens not on the protocol itself but on the contract side.
 
 ## Notes
-
+#### Prev
 - interop is the future - lots of layers and a lot to unpack
 	- two approaches - they assume a lot of technical requirements from those who they want to be a part of
 	- bridges as well, but that's a sort of centralized approach - bridges
@@ -27,5 +27,8 @@ Axelar is a [[Cosmos]] interoperability protocol that aims to solve the protocol
 		- validators also participate in governance and register to vote on events on that connection, you earn rewards for voting on that event - confirmation of the transaction on the source chain to confirm the tx on the destination chain.
 		- validators can choose which chains that you want to participate
 - are we running on Axelar? not sure.
+#### Tokenomics
+How do tokenomics work on Axelar?
+- 
 ## Related
 [[blockchain]][[interoperability]][[Cosmos Hub]], [[Cosmos]]

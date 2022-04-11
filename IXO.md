@@ -7,7 +7,7 @@ State:  #reviewed
 Ixo is a [[Cosmos]] protocol that seeks to create an 'internet of impact' in which the verified metrics of impact for different social economics development projects are measured and there is price discovery based on the success of funded projects. They have deployed a number of projects that show in test phases that their can participate in Proof of Impact, and in so doing are aiming to create a market for impact verification using Impact Tokens.
 
 ## Related to: 
-[[public good]][[blockchain]][[systems thinking]]
+[[public good]],[[systems thinking]], [[Cosmos]], [[blockchain]] [[public good]],
 
 ## Additional notes:
 Community currencies - 
@@ -33,6 +33,3 @@ What is the broader roadmap?
 	- Currently experimenting in Myanmar, working with Unicef, and in Hong Kong
 	- all projects that are looking at measuring impact on a quantifiable basis, by using KPIs that track them
 	- Eventual goal is to be utilized for all kinda of certification requirements to show proof of execution - whether for NGOs or corps
-	
-	
-related to: [[blockchain]] [[public good]],[[Cosmos]]

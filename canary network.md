@@ -36,7 +36,7 @@ In order to prevent a steep increase in failures - having an actively labeled an
 The question here is whether or not this approach has any value - why might someone decide to execute with real world transactions in the Kusama ecology, rather than wait to deploy directly onto Polkadot?
 
 ### Understanding the Value of Expecting Chaos
-Chaos flies in the face of prediction. It often does more than one would expect - outcomes are unpredictable, and no amount of testing can account for these outcomes. This philosophy has been adapted by a number of organizations without the tech sector, in a practice known as Chaos Engineering
+Chaos flies in the face of prediction. It often does more than one would expect - outcomes are unpredictable, and no amount of testing can account for these outcomes. This design language has been adapted by a number of organizations without the tech sector, in a practice known as Chaos Engineering
 
 Because the interactions of users with a canary protocol maintain real world risk, users do not act as though they are in a test environment. Instead, they act as real users would, taking on risk in a blind setting that allows the protocols to act as they will when they are fully launched. This means that the course of execution by protocols that launch a canary network prepare them dutifully for the institutional-scale execution available to protocols that eventually launch on [[Polkadot]].
 

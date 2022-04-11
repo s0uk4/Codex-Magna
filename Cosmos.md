@@ -7,12 +7,14 @@ Most importantly, access to building in the space is 'rent free' - in that those
 ### Critiques of the Cosmos SDK
 While the SDK offers a slew of options that allow protocols to interact more easily, the freedom with which they are able to do so comes at the cost of shared security, which must be built ad-hoc and electively within the relationships between protocols, unlike [[Polkadot]], which offers this by virtue of being connected to their relay chain.
 
+## More information on [[Cosmos Governance]] 
+
 ## Details:
 - Access Date: Nov 2021
 - Access Source(s): Self
-- State: Final
+- State: #update
 
 ## Notes
 
 ## Related to: 
-[[IXO]],[[Axelar]],[[Anoma]],[[Cosmos Hub]],[[Sagan]]
+[[IXO]],[[Axelar]],[[Anoma]],[[Cosmos Hub]],[[Blockchain/Sagan]]

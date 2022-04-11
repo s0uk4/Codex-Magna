@@ -1,7 +1,9 @@
 ## xDai <> Gnosis
 
 ### In short:
-Gnosis is looking to become a canary network for Ethereum.
+Gnosis is looking to become a [[canary network]] for Ethereum. It will provide an ideal thinking space with low finality to consider the evolution of the Ethereum post-merge ecosystem. 
+
+Proponents of this design contend that it will make the deployment of EVM projects that much easier to implement and experiment with in an active operation space and lower overall gas cost.
 
 ### Notes
 

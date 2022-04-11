@@ -5,7 +5,9 @@ A protocol that aims to optimize for [[data availability]] in the creation of a 
 In the long run, something like Celestia could act as the base consensus layer for rollups that are using IBC to communicate, leading us to a shared security model ideal for chains deploying in the [[Cosmos]] ecosystem, but not limited to this ecosystem alone.
 
 ## Notes:
-
+#### Resources
+- [Celestia Resources List.](https://docs.google.com/spreadsheets/d/16p75dIcsB72lMEwlbbCPl8P9gX9crabSior3VBjz2mY/edit#gid=0) 
+#### Prev
 (why not just call it Faze, or Dimension, or whatever? Celestia is so overused)
 
 In an ideal situation, a protocol like [[Evmos]] could offer a high degree of availability to Ethereum-based rollups by utilzing Celestia as the shared security base layer, therefore decreasing the data load on the parent rollup.
@@ -21,5 +23,7 @@ Originally LazyLedger
 What is data availability?
 
 
+
 ## Related to:
+
 [[Cosmos]],[[Evmos]],[[protocol]],[[blockchain]]

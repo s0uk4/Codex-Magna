@@ -11,3 +11,4 @@ One of the core problems encountered by running XCMP is that it requires you to 
 ## Notes
 
 ## Related to: 
+[[Polkadot]],[[Kusama]][[message passing format]]

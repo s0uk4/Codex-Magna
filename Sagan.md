@@ -1,13 +1,27 @@
 # What is Sagan?
 ## Evergreen Description
-Sagan intends to be [[canary network]] for the [[Cosmos]] development space, a space that intends to offer locally sanctioned shared security from a permissioned set of vetted validators. 
+Sagan is a [[Cosmos]]-based iteration environment comparable to [[canary network]]s in which [[blockchain]]s will be able to benefit from shared security as they work toward the creation of a viable economy. This would allow projects to vy for execution space on the basis that they are under use, rather than trying to drum up the infrastructural demand to have people take part.
 
-Different from [[Kusama]], Sagan intends to offer a way for protocols native to the space to live beyond the bounds of the experimental space that it has to offer, eventually allowing them to live in the wider [[Cosmos]] space whilst still having had access to real-world asset space.
+The concept here would be that the creation of a low-friction execution environment would afford projects real-economy experiment space that would quickly decentralise the networks as they intend to build it. This would allow projects to decentralize from the outset with those who choose to work with them, so that when they reach 'scale' they did not need to go through the ardor of focusing on security throughout this process.
 
 ## Details
 Access Date: Dec 2021
 Access Source: Call with Sagan Team
 ## Notes
+#### Feb 2022 Meeting
+blockchain requests - singleton launch
+- want to know what the challenges are for validators when they are starting to set up a chain
+- how do you make things easier for chains?
+	- restrictions with itnerchain shared security
+	- reducing friction for deployment
+	- earlier spot in project market execution to work with validators
+- market / governance facilitation for projects
+- focus on the earlier stage primarily
+	- pluggable VM space - dual token models and the fee token. The fee token could be swappable.
+	- fee tokens would be accrual from other validated chains
+
+#### Dec meeting
+
 direct 1-1 pairing doesn't work
 - cosmos is robust
 	- cosmos is elusive, opaque and difficult to make sense of if you're coming in - interchain security will be a big deal

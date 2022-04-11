@@ -11,7 +11,8 @@ It would provide parties with the ability to post limit sells/buys on the Anoma 
 
 ## Whitepaper review:
 ## Calls
-[[call with Chris Goes 2021.12.15]]
+[[2022.1.12 support asks for Anoma]]
+[[2021.12.15 call with Chris Goes]]
 - 1.2  - centralized authority over issuance for fiat currencies leads to the abuse of these systems and monetary capture by those who control issuance
 	- tie individuals to political and local economic systems
 	- 1,2,2 - what are the causal reactions in the system for what your money facilitates?
